@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"strings"
 )
-
+//sadasdasd
 func execInput(input string) error {
 	// remove new line
 	input = strings.TrimSuffix(input, "\n");
